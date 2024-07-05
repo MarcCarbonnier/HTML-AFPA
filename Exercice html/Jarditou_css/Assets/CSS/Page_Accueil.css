@@ -1,0 +1,23 @@
+nav{
+    background-color: black;
+    padding: 7pt 50pt;
+}
+a{
+    color: white;
+}
+footer{
+    background-color: black;
+    padding: 7pt 50pt;
+}
+footer p{
+    color: white;
+}
+.section{
+    display: flex;
+}
+.box{
+    display: flex;
+    background: #8c8c8c;
+    width: 1000pt;
+    height: 353pt;
+}
