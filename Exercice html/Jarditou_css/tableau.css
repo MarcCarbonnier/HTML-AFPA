@@ -7,17 +7,14 @@ a{
 }
 footer{
     background-color: black;
-    padding: 7pt 50pt;
-}
-footer p{
-    color: white;
+    padding: 5pt 20pt;
 }
 .section{
     display: flex;
 }
 #one{
-    background: #8c8c8c;
+    background-color: #8c8c8c;
 }
-.full-height{
-    height: 100%;
+.flex-1{
+    flex: 1;
 }

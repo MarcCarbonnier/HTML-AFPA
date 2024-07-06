@@ -9,15 +9,18 @@ footer{
     background-color: black;
     padding: 7pt 50pt;
 }
-footer p{
-    color: white;
-}
 .section{
     display: flex;
 }
 #one{
     background: #8c8c8c;
 }
-.full-height{
-    height: 100%;
+.flex-1{
+    flex: 1;
+}
+.flex-2{
+    flex: 2;
+}
+.padding-bottom-20 {
+    padding-bottom: 40px;
 }
